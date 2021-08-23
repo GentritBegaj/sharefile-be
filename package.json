@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+    "node": "14.15.4"
+  }
   "scripts": {
     "dev": "ts-node-dev server.ts",
     "build": "tsc",
